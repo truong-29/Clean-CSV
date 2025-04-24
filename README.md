@@ -1,4 +1,4 @@
-# Clean-CSV
+# Clean-CSV Phùng Đình Trường
 
 Công cụ làm sạch dữ liệu CSV mạnh mẽ và dễ sử dụng, được viết bằng Python.
 
@@ -223,3 +223,4 @@ Báo cáo sẽ được lưu trong thư mục `data/reports`.
 | `--optimize-datatypes` | Tối ưu hóa kiểu dữ liệu để giảm bộ nhớ | `False` |
 | `--save-metadata` | Lưu metadata về kiểu dữ liệu cùng với file CSV | `True` |
 | `--no-save-metadata` | Không lưu metadata | |
+
